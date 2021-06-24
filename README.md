@@ -4,7 +4,7 @@ DATABASE
 YUL
 ------
 * Author 민율 <br>
-* 개인 개발 블로그 링크 <https://velog.io/@minyul> <br>
+* 개인 개발 [블로그](https://velog.io/@minyul) <br>
 
 
 계획
