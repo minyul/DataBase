@@ -18,7 +18,7 @@ YUL
 
 #### velog
 * [2021-01-01] 임시 제목 [BLOG에 정리한 부분](https://velog.io/@minyul) 
-* [2021-06-27] Mysql Query Between 과 >=, <= 성능 차이 비교 ( 더미데이터 50만 )(https://velog.io/@minyul)
+* [2021-06-27] Mysql Query Between 과 >=, <= 성능 차이 비교 ( 더미데이터 50만 ) [BLOG에 정리한 부분](https://velog.io/@minyul)
 
 #### naver 
 * [2021-01-17] FK로 인해 삭제가 되지 않을 때 [BLOG에 정리한 부분](https://blog.naver.com/ggomjae/222210143484)
