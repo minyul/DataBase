@@ -3,7 +3,7 @@ DATABASE
 
 YUL
 ------
-* Author Min Yul <br>
+* Author - Min Yul <br>
 * 개인 개발 [블로그](https://velog.io/@minyul) <br>
 
 
