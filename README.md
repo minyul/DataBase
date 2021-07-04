@@ -21,6 +21,7 @@ YUL
 * [2021-06-27] Mysql Query Between 과 >=, <= 성능 차이 비교 ( 더미데이터 50만 ) [BLOG에 정리한 부분](https://velog.io/@minyul)
 * [2021-06-28] Cluster Index vs Non-Cluster Index 이론 및 성능 비교 ( JPA + MYSQL )[BLOG에 정리한 부분](https://velog.io/@minyul/Cluster-Index-vs-Non-Cluster-Index-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-JPA-MYSQL)
 * [2021-06-29] MySQL TimeZone 설정 - serverTimezone=Asia/Seoul 로 수정할 때 [BLOG에 정리한 부분](https://velog.io/@minyul)
+* [2021-07-04] MySQL의 데이터 흐름 및 특징 - 답이 아닌 책을 읽으면서 나의 머리에 있는 흐름을 정리한 글 [BLOG에 정리한 부분](https://velog.io/@minyul)
 
 #### naver 
 * [2021-01-17] FK로 인해 삭제가 되지 않을 때 [BLOG에 정리한 부분](https://blog.naver.com/ggomjae/222210143484)
