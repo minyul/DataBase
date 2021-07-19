@@ -17,11 +17,10 @@ YUL
 ### 개발 [블로그](https://velog.io/@minyul) 정리 모음
 
 #### velog
-* [2021-01-01] 임시 제목 [BLOG에 정리한 부분](https://velog.io/@minyul) 
-* [2021-06-27] Mysql Query Between 과 >=, <= 성능 차이 비교 ( 더미데이터 50만 ) [BLOG에 정리한 부분](https://velog.io/@minyul)
+* [2021-06-27] Mysql Query Between 과 >=, <= 성능 차이 비교 ( 더미데이터 50만 ) [BLOG에 정리한 부분](https://velog.io/@minyul/Mysql-Query-Between-%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B0%A8%EC%9D%B4-%EB%B9%84%EA%B5%90-%EB%8D%94%EB%AF%B8%EB%8D%B0%EC%9D%B4%ED%84%B0-50%EB%A7%8C)
 * [2021-06-28] Cluster Index vs Non-Cluster Index 이론 및 성능 비교 ( JPA + MYSQL )[BLOG에 정리한 부분](https://velog.io/@minyul/Cluster-Index-vs-Non-Cluster-Index-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-JPA-MYSQL)
-* [2021-06-29] MySQL TimeZone 설정 - serverTimezone=Asia/Seoul 로 수정할 때 [BLOG에 정리한 부분](https://velog.io/@minyul)
-* [2021-07-04] MySQL의 데이터 흐름 및 특징 - 답이 아닌 책을 읽으면서 나의 머리에 있는 흐름을 정리한 글 [BLOG에 정리한 부분](https://velog.io/@minyul)
+* [2021-06-29] MySQL TimeZone 설정 - serverTimezone=Asia/Seoul 로 수정할 때 [BLOG에 정리한 부분](https://velog.io/@minyul/MySQL-TimeZone-%EC%84%A4%EC%A0%95-serverTimezoneAsiaSeoul-%EB%A1%9C-%EC%88%98%EC%A0%95%ED%95%A0-%EB%95%8C)
+* [2021-07-04] MySQL의 데이터 흐름 및 특징 - 답이 아닌 책을 읽으면서 나의 머리에 있는 흐름을 정리한 글 [BLOG에 정리한 부분](https://velog.io/@minyul/MySQL%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%9D%90%EB%A6%84-%EB%B0%8F-%ED%8A%B9%EC%A7%95-%EB%8B%B5%EC%9D%B4-%EC%95%84%EB%8B%8C-%EC%B1%85%EC%9D%84-%EC%9D%BD%EC%9C%BC%EB%A9%B4%EC%84%9C-%EB%82%98%EC%9D%98-%EB%A8%B8%EB%A6%AC%EC%97%90-%EC%9E%88%EB%8A%94-%ED%9D%90%EB%A6%84%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B8%80)
 
 #### naver 
 * [2021-01-17] FK로 인해 삭제가 되지 않을 때 [BLOG에 정리한 부분](https://blog.naver.com/ggomjae/222210143484)
